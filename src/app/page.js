@@ -8,7 +8,7 @@ export default function Home() {
     <>
 
     <main className="">
-     <h1>hello{name}</h1>
+     <h1>hello</h1>
      <button onClick={()=>{
       return routers.push("/login")
      }}>click to go login</button>
