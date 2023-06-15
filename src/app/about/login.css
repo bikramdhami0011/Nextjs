@@ -1,0 +1,20 @@
+
+.ul_item {
+    display: flex;
+}
+.ul_item li{
+    margin-left: 30px;
+    list-style-type: none;
+ 
+}
+.ul_item li a{
+    text-decoration: none;
+}
+.ul_item h1{
+    margin: 0;
+}
+.heading{
+    color: blue;
+    text-align: center;
+  
+}
